@@ -1,0 +1,40 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Vel - Cgonnection to Ivenira",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "^12.0.5",
+    "@angular/flex-layout": "^7.0.0-beta.19",
+    "@angular/forms": "^12.0.5",
+    "@angular/router": "^12.0.5",
+    "@okta/okta-angular": "^3.1.0",
+    "@progress/kendo-data-query": "^1.5.5",
+    "@progress/kendo-drawing": "^1.10.1",
+    "@progress/kendo-file-saver": "^1.1.0",
+    "@progress/kendo-react-charts": "^4.7.0",
+    "@progress/kendo-react-data-tools": "^4.7.0",
+    "@progress/kendo-react-dateinputs": "^4.7.0",
+    "@progress/kendo-react-dropdowns": "^4.7.0",
+    "@progress/kendo-react-excel-export": "^4.7.0",
+    "@progress/kendo-react-grid": "^4.7.0",
+    "@progress/kendo-react-inputs": "^4.7.0",
+    "@progress/kendo-react-intl": "^4.7.0",
+    "@progress/kendo-react-layout": "^4.7.0",
+    "@progress/kendo-react-progressbars": "^4.7.0",
+    "@progress/kendo-theme-material": "^3.34.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "mongoose": "^5.12.14",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "@types/mocha": "^8.2.2"
+  }
+}
