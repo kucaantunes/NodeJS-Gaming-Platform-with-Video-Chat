@@ -43,5 +43,15 @@ Concerning the third application developed, it was used PHP, MySQL and simple HT
 
 ![image](https://user-images.githubusercontent.com/26171557/187047496-3771b7c5-e163-4693-a518-bc722527e009.png)
 
+![image](https://user-images.githubusercontent.com/26171557/187050740-f0ea5b38-d8f1-4d4e-98cf-23183630f92f.png)
+
+
+![image](https://user-images.githubusercontent.com/26171557/187050747-c9508844-5466-4cbf-a98b-930a1ed2a6fc.png)
+
+![image](https://user-images.githubusercontent.com/26171557/187050770-8e643204-a683-475d-b1f1-473a46fb5a5a.png)
+
+
+![image](https://user-images.githubusercontent.com/26171557/187050791-951706e0-ace1-45dd-9062-8a9436064331.png)
+
 
 
